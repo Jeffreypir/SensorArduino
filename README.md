@@ -1,5 +1,5 @@
-## Projeto Estátisca usando Arduino 
+#Projeto Estátisca usando Arduino 
 
-# Código Arduino 
+## Código Arduino 
 
-# Código python
+## Código python
