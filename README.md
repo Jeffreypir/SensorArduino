@@ -1,4 +1,4 @@
-# Projeto Estátisca usando Arduino 
+# Projeto Estatística usando Arduino 
 
 ## Código Arduino 
 [Veja aqui](https://github.com/Jeffreypir/SensorArduino/blob/main/AnaliseEstatisticaCompletaPearsonTempArSolo.ino)
