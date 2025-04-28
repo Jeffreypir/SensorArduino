@@ -29,9 +29,9 @@ O seguine link mostra o código em Python para pós-processamento.
 ## Artigo 
 O seguinte link mostra o artigo completo com a metodologia, estátisticas utilizadas e resultado. 
 
-[![Baixar Artigo Completo](https://img.shields.io/badge/Baixar%20Artigo%20Completo-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/sensoAtuadoresEstastica.pdf)
+[![Veja o Artigo Completo](https://img.shields.io/badge/Veja%20o%20Artigo-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/sensoAtuadoresEstastica.pdf)
 
-[![Baixar PDF](https://img.shields.io/badge/Baixar%20Artigo%20PDF-FF5733?style=for-the-badge&logo=github)](https://github.com/Jeffreypir/SensorArduino/raw/main/sensoAtuadoresEstastica.pdf)
+[![Baixar Artigo Completo](https://img.shields.io/badge/Baixar%20Artigo%20Completo-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/sensoAtuadoresEstastica.pdf)
 
 </div>
 
