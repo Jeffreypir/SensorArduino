@@ -6,27 +6,30 @@ Esse projeto explora a aplicação de sensores de Arduino na coleta e análise d
 ## Código Arduino 
 O seguinte link mostra o código em C/C++ para arduino utilizado para a coleta dos dados.
 
-[Veja aqui](https://github.com/Jeffreypir/SensorArduino/blob/main/AnaliseEstatisticaCompletaPearsonTempArSolo.ino)
+[![Veja o código Arduino](https://img.shields.io/badge/Veja%20o%20Código%20Arduino%20Aqui-0077B5?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/AnaliseEstatisticaCompletaPearsonTempArSolo.ino)
 
-[![Veja o código Arduino](https://img.shields.io/badge/Veja%20o%20o%20aqui%20Arduino-0077B5?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/AnaliseEstatisticaCompletaPearsonTempArSolo.ino)
-
+[![Baixar Código Arduino](https://img.shields.io/badge/Baixar%20Código%20Arduino-0077B5?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/AnaliseEstatisticaCompletaPearsonTempArSolo.ino)
 
 ## Dados Gerados
 O seguinte link mostra os dados obtidos pelos sensores e algoritmicos implementados para a coleta de dados.
 
-[Veja aqui](https://github.com/Jeffreypir/SensorArduino/blob/main/DADOS.CSV)
-
 **[📊 Veja os Dados CSV aqui](https://github.com/Jeffreypir/SensorArduino/blob/main/DADOS.CSV)** - Dados coletados pelos sensores para análise.
+
+[![Baixar Dados CSV](https://img.shields.io/badge/Baixar%20Dados%20CSV-4CAF50?style=for-the-badge&logo=csv&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/DADOS.CSV)
+
 
 ## Código python
 O seguine link mostra o código em Python para pós-processamento.
 
 [![Veja o Código Python](https://img.shields.io/badge/Veja%20o%20código%20aqui-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/gerar_figuras.py)
 
+[![Baixar Código Python](https://img.shields.io/badge/Baixar%20Código%20Python-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/gerar_figuras.py)
+
+
 ## Artigo 
 O seguinte link mostra o artigo completo com a metodologia, estátisticas utilizadas e resultado. 
 
-[Veja aqui](https://github.com/Jeffreypir/SensorArduino/blob/main/sensoAtuadoresEstastica.pdf)
+[![Baixar Artigo Completo](https://img.shields.io/badge/Baixar%20Artigo%20Completo-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/sensoAtuadoresEstastica.pdf)
 
 [![Baixar PDF](https://img.shields.io/badge/Baixar%20Artigo%20PDF-FF5733?style=for-the-badge&logo=github)](https://github.com/Jeffreypir/SensorArduino/raw/main/sensoAtuadoresEstastica.pdf)
 
