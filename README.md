@@ -9,7 +9,7 @@ O seguinte link mostra o código em C/C++ para arduino utilizado para a coleta d
 [Veja aqui](https://github.com/Jeffreypir/SensorArduino/blob/main/AnaliseEstatisticaCompletaPearsonTempArSolo.ino)
 
 ## Dados Gerados
-O seguinte link mostra os dados obtidos pelos sensore e algoritmicos implementados para a coleta de dados.
+O seguinte link mostra os dados obtidos pelos sensores e algoritmicos implementados para a coleta de dados.
 
 [Veja aqui](https://github.com/Jeffreypir/SensorArduino/blob/main/DADOS.CSV)
 
