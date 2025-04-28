@@ -16,7 +16,7 @@ O seguinte link mostra os dados obtidos pelos sensores e algoritmicos implementa
 ## Código python
 O seguine link mostra o código em Python para pós-processamento.
 
-[Veja aqui](https://github.com/Jeffreypir/SensorArduino/blob/main/gerar_figuras.py)
+[🔍 Veja o Código Python aqui](https://github.com/Jeffreypir/SensorArduino/blob/main/gerar_figuras.py)
 
 ## Artigo 
 O seguinte link mostra o artigo completo com a metodologia, estátisticas utilizadas e resultado. 
