@@ -21,6 +21,6 @@ O seguine link mostra o código em Python para pós-processamento.
 ## Artigo 
 O seguinte link mostra o artigo completo com a metodologia, estátisticas utilizadas e resultado. 
 
-[Veja aqui](https://github.com/Jeffreypir/SensorArduino/blob/main/gerar_figuras.py)
+[Veja aqui](https://github.com/Jeffreypir/SensorArduino/blob/main/sensoAtuadoresEstastica.pdf)
 </div>
 
