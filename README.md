@@ -25,6 +25,19 @@ O seguine link mostra o código em Python para pós-processamento.
 
 [![Baixar Código Python](https://img.shields.io/badge/Baixar%20Código%20Python-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/gerar_figuras.py)
 
+## Código python para análise de estátisticas.
+O seguine link mostra o código em Python para pós-processamento.
+
+[![Veja Estátiticas Percentuais](https://img.shields.io/badge/Veja%20o%20código%20aqui-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/estatistica.py)
+
+[![Baixar Estátistica Percentuais](https://img.shields.io/badge/Baixar%20Código%20Python-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/estatistica.py)
+
+
+[![Veja Código de Plotagem](https://img.shields.io/badge/Veja%20o%20código%20aqui-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/plotagem.py)
+
+[![Baixar Código de Plotagem](https://img.shields.io/badge/Baixar%20Código%20Python-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/plotagem.py)
+
+
 
 ## Artigo 
 O seguinte link mostra o artigo completo com a metodologia, estátisticas utilizadas e resultado. 
