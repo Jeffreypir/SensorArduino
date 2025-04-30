@@ -1,3 +1,13 @@
+#!/usr/bin/python3
+
+#==================== PROGRAM ==============================
+# Program: gerar_figuras
+# Date of Create: 29/04/2025
+# Update in: 29/04/2025
+# Author:Jefferson Bezerra dos Santos
+# Description: Gerar os gráficos para análise Estátistica
+#===========================================================
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
