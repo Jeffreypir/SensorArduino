@@ -41,7 +41,7 @@ Os seguintes links mostram os códigos em Python auxiliares usados na análise.
 
 
 ## Artigo 
-O seguinte link mostra o artigo completo com a metodologia, estátisticas utilizadas e resultado. 
+O seguinte link mostra o artigo completo com a metodologia, estátisticas utilizadas e resultados. 
 
 [![Veja o Artigo Completo](https://img.shields.io/badge/Veja%20o%20Artigo-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/sensoAtuadoresEstastica.pdf)
 
