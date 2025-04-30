@@ -27,7 +27,7 @@ O seguine link mostra o código em Python para pós-processamento.
 [![Baixar Código Python](https://img.shields.io/badge/Baixar%20Código%20Python-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/gerar_figuras.py)
 
 ## Código python para análise de estátisticas.
-O seguine link mostra o código em Python para pós-processamento.
+Os seguintes links mostram os códigos em Python auxiliares usados na análise.
 
 [![Veja Estátiticas Percentuais](https://img.shields.io/badge/Codigo%20Estatisticas%20Percentuais-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/estatistica.py)
 
