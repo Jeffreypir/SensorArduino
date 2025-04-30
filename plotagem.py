@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 
 #==================== PROGRAM ==============================
-# Program: <+name+>
-# Date of Create: <+date+>
-# Update in: <+update+>
+# Program: Plotagem
+# Date of Create: 29/04/2025
+# Update in: 29/04/2025
 # Author:Jefferson Bezerra dos Santos
-# Description: <+description+>
+# Description: Programa para geração de gráficos auxiliares
 #===========================================================
 
 import pandas as pd
