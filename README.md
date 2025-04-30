@@ -1,4 +1,5 @@
 # Plataforma Arduino: Sensores  Aplicados na Estatística
+
 <div style="text-align: justify;">
 Esse trabalho explora a aplicação de sensores de Arduino na coleta e análise de dados estatísticos. Por meio de exemplos práticos, demonstramos como essas tecnologias podem automatizar a coleta de dados e aprimorar análises estatísticas em tempo real. O artigo também discute limitações e aplicações futuras, com ênfase em IoT, aprendizado de máquina e técnicas de análise de dados e suas implementações em microcontroladores. Resultados mostram que a integração entre hardware acessível e métodos estatísticos oferecenovas oportunidades em diversas áreas como: agricultura, saúde e monitoramento ambiental.
 
@@ -28,14 +29,14 @@ O seguine link mostra o código em Python para pós-processamento.
 ## Código python para análise de estátisticas.
 O seguine link mostra o código em Python para pós-processamento.
 
-[![Veja Estátiticas Percentuais](https://img.shields.io/badge/Veja%20o%20código%20aqui-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/estatistica.py)
+[![Veja Estátiticas Percentuais](https://img.shields.io/badge/Codigo%20Estatisticas%20Percentuais-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/estatistica.py)
 
-[![Baixar Estátistica Percentuais](https://img.shields.io/badge/Baixar%20Código%20Python-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/estatistica.py)
+[![Baixar Estátistica Percentuais](https://img.shields.io/badge/Baixar%20Código%20Estatisticas%20Percentuais-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/estatistica.py)
 
 
-[![Veja Código de Plotagem](https://img.shields.io/badge/Veja%20o%20código%20aqui-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/plotagem.py)
+[![Veja Código de Plotagem](https://img.shields.io/badge/%20Código%20Plotagem-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/blob/main/plotagem.py)
 
-[![Baixar Código de Plotagem](https://img.shields.io/badge/Baixar%20Código%20Python-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/plotagem.py)
+[![Baixar Código de Plotagem](https://img.shields.io/badge/Baixar%20Código%20%20Plotagem-0077B5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/estatistica.py)
 
 
 
