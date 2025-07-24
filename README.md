@@ -49,3 +49,6 @@ O seguinte link mostra o artigo completo com a metodologia, estátisticas utiliz
 
 </div>
 
+## Contato:
+WhatsApp: (75)99259-7174
+Instragram: https://www.instagram.com/jefferson.0_1?igsh=ZDdkdzRndXJsN3U1
