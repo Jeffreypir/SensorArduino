@@ -47,8 +47,8 @@ O seguinte link mostra o artigo completo com a metodologia, estátisticas utiliz
 
 [![Baixar Artigo Completo](https://img.shields.io/badge/Baixar%20Artigo%20Completo-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/sensoAtuadoresEstastica.pdf)
 
-</div>
-
 ## Contato:
 WhatsApp: (75)99259-7174
 Instragram: https://www.instagram.com/jefferson.0_1?igsh=ZDdkdzRndXJsN3U1
+
+</div>
