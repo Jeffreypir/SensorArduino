@@ -52,7 +52,7 @@ O seguinte link mostra o artigo completo com a metodologia, estátisticas utiliz
 
 - 📱 WhatsApp: [(75) 99259-7174](https://wa.me/5575992597174)
 - 📷 Instagram: [@jefferson.0_1](https://www.instagram.com/jefferson.0_1)
-- ✉️ E-mail: [jefferson1995mat@gmail.com](mailto:jefferson1995mat@gmail.com)
-
+- ✉️ E-mail:[jefferson1995mat@gmail.com](mailto:jefferson1995mat@gmail.com)
+a
 
 </div>
