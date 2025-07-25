@@ -48,11 +48,11 @@ O seguinte link mostra o artigo completo com a metodologia, estátisticas utiliz
 [![Baixar Artigo Completo](https://img.shields.io/badge/Baixar%20Artigo%20Completo-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Jeffreypir/SensorArduino/raw/main/sensoAtuadoresEstastica.pdf)
 
 
-
-## Contato
+## 📬 Contato
 
 - 📱 WhatsApp: [(75) 99259-7174](https://wa.me/5575992597174)
 - 📷 Instagram: [@jefferson.0_1](https://www.instagram.com/jefferson.0_1)
-[![✉️ E-mail](https://img.shields.io/badge/E--mail-jefferson1995mat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefferson1995mat@gmail.com)
+- ✉️ E-mail: [jefferson1995mat@gmail.com](mailto:jefferson1995mat@gmail.com)
+
 
 </div>
